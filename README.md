@@ -14,8 +14,9 @@ This repository contains my submission to the take-home project for the Applied 
    source venv/bin/activate     # For Linux and MacOS
    venv/scripts/activate        # For Windows
    ```
-3. Install the required packages:
+3. Install the required packages, along with `ipykernel`:
    ```bash
    pip install -r requirements.txt
+   python -m ipykernel install --user --name venv --display-name "Python (venv)"
    ```
-4. Run the code at `code/main.ipynb` to test it out.
+4. Using this new kernel, run the code at `code/main.ipynb`.
