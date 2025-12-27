@@ -1,6 +1,6 @@
 # JPMC Applied AI/ML Associate Take-Home Project
 
-This repository contains my submission to the take-home project for the Applied AI/ML Associate role at JP Morgan.
+This repository contains my submission to the take-home project for the Applied AI/ML Associate role at JP Morgan. My report can be viewed [here](https://github.com/Bala179/jpmc-take-home-project/blob/main/jpmc-project-report.pdf).
 
 ## Setup
 1. Clone the repository and change to the repository directory:
